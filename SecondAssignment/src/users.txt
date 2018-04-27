@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<chemists>
+   <chemist id = "1">
+      <name>stefi</name>
+      <pnc>1234</pnc>
+	   <adress>Cluj</adress>
+      <email>stefi@gmail.com</email>
+	   <username>stefi</username>
+      <password>1234</password>
+   </chemist>
+   
+    <chemist id = "2">
+      <name>gabi</name>
+      <pnc>1324</pnc>
+	   <adress>Cluj</adress>
+      <email>gabi@gmail.com</email>
+	   <username>gabi</username>
+      <password>1234</password>
+   </chemist>
+   
+
+</chemists>

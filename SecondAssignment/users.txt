@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chemists>
+  <chemist>
+    <name>stefan</name>
+    <pnc>1234</pnc>
+    <adress>Cluj</adress>
+    <email>stefi@gmail.com</email>
+    <username>stefi</username>
+    <password>1234</password>
+  </chemist>
+  <chemist>
+    <name>gabi</name>
+    <pnc>1324</pnc>
+    <adress>Cluj</adress>
+    <email>gabi@gmail.com</email>
+    <username>gabi</username>
+    <password>1234</password>
+  </chemist>
+</chemists>

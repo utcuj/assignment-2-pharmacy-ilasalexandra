@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<admins>
+   <admin id = "1">
+      <username>stef</username>
+      <password>1234</password>
+   </admin>
+   
+   <admin id = "2">
+      <username>ale</username>
+	  <password>1234</password>
+   </admin>
+   
+</admins>

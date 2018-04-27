@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meds>
+  <med>
+    <name>parasinus</name>
+    <ingredients>smth anothersmth othersmth</ingredients>
+    <manufacturer>cluj</manufacturer>
+    <quantity>1</quantity>
+    <price>10</price>
+  </med>
+  <med>
+    <name>ibusinus</name>
+    <ingredients>smth2 anothersmth2 othersmth2</ingredients>
+    <manufacturer>cluj</manufacturer>
+    <quantity>285</quantity>
+    <price>32</price>
+  </med>
+  <med>
+    <name>trachisan</name>
+    <ingredients>lacrimi suspine</ingredients>
+    <manufacturer>bucuresti</manufacturer>
+    <quantity>198</quantity>
+    <price>40</price>
+  </med>
+  <med>
+    <name>dmt</name>
+    <ingredients>fericire love</ingredients>
+    <manufacturer>unknown</manufacturer>
+    <quantity>6000</quantity>
+    <price>1000</price>
+  </med>
+  <med>
+    <name>decasept</name>
+    <ingredients>ceva1 ceva2</ingredients>
+    <manufacturer>cluj</manufacturer>
+    <quantity>123</quantity>
+    <price>400</price>
+  </med>
+</meds>
